@@ -4,3 +4,5 @@ Tengo 27 de Edad
 Naci en Panama
 
 Hoy tengo algo de pereza para programar
+
+Hoy es el CEO  de Platzi
